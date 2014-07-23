@@ -1,10 +1,10 @@
 one-sentence-at-a-time
 ======================
-READ THIS FIRST:
+<b>READ THIS FIRST:
 
 TERMS OF PARTICIPATION:
 
-By contributing to this project, you agree that your contribution(s) is/are licensed under the Creative Commons Attribution 4.0 International Public License, as found at https://creativecommons.org/licenses/by/4.0/legalcode, and you certify that you have the right to submit your contribution(s) under the Creative Commons Attribution 4.0 International Public License, as found at https://creativecommons.org/licenses/by/4.0/legalcode.
+By contributing to this project, you agree that your contribution(s) is/are licensed under the Creative Commons Attribution 4.0 International Public License, as found at https://creativecommons.org/licenses/by/4.0/legalcode, and you certify that you have the right to submit your contribution(s) under the Creative Commons Attribution 4.0 International Public License, as found at https://creativecommons.org/licenses/by/4.0/legalcode.</b>
 
 This project aims to write a massively collaborative novel, one sentence at a time. Here are the rules (subject to change):
 
