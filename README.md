@@ -6,7 +6,9 @@ one-sentence-at-a-time
 
 <b>By contributing to this project, you agree that your contribution(s) is/are licensed under the Creative Commons Attribution 4.0 International Public License, as found at https://creativecommons.org/licenses/by/4.0/legalcode, and you certify that you have the right to submit your contribution(s) under the Creative Commons Attribution 4.0 International Public License, as found at https://creativecommons.org/licenses/by/4.0/legalcode.</b>
 
-This project aims to write a massively collaborative novel, one sentence at a time. Here are the <b>rules</b> (subject to change):
+This project aims to write a massively collaborative novel, one sentence at a time. 
+
+<b>RULES:</b> (subject to change)
 
 1. Want to add the next sentence? Send a pull request with your added sentence to this repository. If you'd like to be attributed by your real name, submit that real name with the pull request.
 2. If someone's already sent a pull request, that doesn't mean you shouldn't send one! If there's "competition" for what the next sentence could be, then I'll choose which one to add.
